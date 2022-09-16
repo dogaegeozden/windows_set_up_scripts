@@ -6,7 +6,7 @@ Set up scripts for windows 10 operating system
 ## INSTALLATION
 1) Start the powershell as the administrator 
 2) ```set-executionpolicy remotesigned```
-3) .\set_up_my_windows.ps1
+3) ```.\set_up_my_windows.ps1```
 
 ## BENEFITS
 1) Reducing the time that developers are losing, when they wanted to format their computer
