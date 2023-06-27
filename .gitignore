@@ -2,3 +2,4 @@
 windows_set_up_scripts.zip
 README.md.backup
 sysinternaltools_win/*
+.gitignore
